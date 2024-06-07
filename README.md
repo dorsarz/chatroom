@@ -1,4 +1,4 @@
-# Chatroom
+# Chat-room
 Chatroom is a project that you can connect to one or more client and have chat with them,for this connection we used Socket ,also we used multi thread to having connection between some project at the same time.
 # How it work
 to using this project you have to have code of multiThread class for server and every clients,then you will run code of server and after that run code of every clients at the same time,now when you write something in terminal of one of your client,it will send to server and then shown on every clients' terminal
